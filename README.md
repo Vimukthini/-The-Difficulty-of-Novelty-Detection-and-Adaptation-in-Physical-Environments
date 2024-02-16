@@ -1,4 +1,4 @@
-# -The-Difficulty-of-Novelty-Detection-and-Adaptation-in-Physical-Environments
+# The Difficulty of Novelty Detection and Adaptation in Physical Environments
 
 ## Abstract
 
